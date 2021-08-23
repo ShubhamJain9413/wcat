@@ -1,0 +1,30 @@
+// let tempstring = "";
+            // for(let character of fileData){
+                
+            //     if(character.charCodeAt(0) >=65 && character.charCodeAt(0) <=90 ||character.charCodeAt(0) >=97 && character.charCodeAt(0) <=122){
+            //         tempstring += character;
+            //     }               
+           
+            //}
+              //  fileData = tempstring;
+
+
+
+
+              // if(flags.length == 0 && filenames.length != 0){
+//     for(let file of filenames) {
+//         console.log(fs.readFileSync(file,"utf-8"));
+//     }
+// }
+// else{
+//     for(let flag of flags){
+//         if(flag == "-rs"){
+//              for(let file of filenames){
+//                  let filedata = fs.readFileSync(file,"utf-8")
+//                  //let data = fs.writeFileSync("a.txt",fs.readFileSync(file,"utf-8"));
+//                 console.log(filedata.split(" ").join(""));
+//                  //console.log(data);
+//              }        
+//         }
+//     }
+// }
